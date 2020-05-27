@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Android_CRUD</string>
+
+    <string name="add_todo">Ajoutez un ingrédient !</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_title1">Les plus populaires</string>
+    <string name="home_title2">Les plus simples</string>
+
+    <string name="recette_crud">Cliquez longtemps pour supprimer ou modifier un ingrédient</string>
+
+
+    <!-- PAGE RECETTE -->
+    <string name="recettes_ingredients">Ingrédients</string>
+    <string name="recettes_howdo">Comment faire ?</string>
+    <string name="recettes_howdo1">1</string>
+    <string name="recettes_howdo2">2</string>
+    <string name="recettes_howdo3">3</string>
+    <string name="recettes_howdo4">4</string>
+    <string name="recettes_howdo5">5</string>
+
+
+    <!-- NOM + TEMPS des recettes -->
+    <string name="lasagnes_name">Lasagnes au aubergines</string>
+    <string name="lasagnes_time">1h40</string>
+
+    <string name="macarons_name">Macarons au chocolat</string>
+    <string name="macarons_time">32 mins</string>
+
+
+    <string name="tagliatelles_name">Tagliatelles au saumon</string>
+    <string name="tagliatelles_time">30 mins</string>
+
+
+    <string name="tiramisu_name">Tiramisu aux framboises</string>
+    <string name="tiramisu_time">25 mins</string>
+
+
+    <string name="lasagnes_howdo1">
+        Peler les aubergines et les couper en tranches (pas trop épaisses) dans le sens de la longueur. Faire chauffer l huile dans une sauteuse et y faire griller les aubergines sur feu vif: elles doivent devenir tendres et dorées. Les déposer sur du papier absorbant.
+    </string>
+
+    <string name="lasagnes_howdo2">
+        Préparer la sauce : dans une casserole, faire fondre le beurre ; ajouter la farine et bien remuer. Ajouter ensuite progressivement le coulis (comme pour une béchamel) puis le bouillon, jusqu à consistance moyennement liquide.
+    </string>
+
+    <string name="lasagnes_howdo3">
+        Peler la carotte et la détailler en petits dés: les jeter dans la sauce tomate ainsi que l oignon coupé finement. Ajouter poivre et herbes de Provence. Laisser cuire 30 mn sur feu très doux en remuant souvent.
+    </string>
+
+    <string name="lasagnes_howdo4">
+        Dans un plat à gratin, couvrir le fond de quelques cuillerées de sauce. Recouvrir de feuilles de lasagnes (sans les faire se chevaucher) puis placer les tranches d aubergines parallèles. Saler, poivrer, parsemer de parmesan et d une petite poignée de Comté. Placer à nouveau feuilles de lasagne, sauce, aubergines, Comté, Parmesan. Faire 3 couches. Recouvrir le dessus du gratin de Comté.
+    </string>
+
+    <string name="lasagnes_howdo5">
+        Cuire 50 min au four préchauffé à thermostat 7 (210°C) et déguster.
+    </string>
+</resources>
